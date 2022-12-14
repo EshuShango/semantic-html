@@ -1,4 +1,4 @@
-[alt text picture of Horiseon company](<img width="1499" alt="Screen Shot 2022-12-14 at 10 00 30" src="https://user-images.githubusercontent.com/31577933/207647054-caf165bf-67c9-41dc-b5af-72a990b52685.png">)
+[alt text picture of Horiseon company](https://user-images.githubusercontent.com/31577933/207647054-caf165bf-67c9-41dc-b5af-72a990b52685.png)
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
