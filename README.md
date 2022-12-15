@@ -4,7 +4,7 @@
 ### Client: Horiseon Marketing Agency
 ### Link:
 
-![Heriseon's full page](/semantic-html/assets/heriseon.png)
+![Heriseon's full page](/assets/heriseon.png)
 
 
 ## Description
