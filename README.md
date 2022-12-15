@@ -4,7 +4,7 @@
 ### Client: Horiseon Marketing Agency
 ### Link:
 
-![Heriseon's full page](/homework//semantic-html/assets/heriseon.png)
+![Heriseon's full page](/homework/semantic-html/assets/heriseon.png)
 
 
 ## Description
@@ -16,7 +16,7 @@ few css selectors to not repeat code
 
 
 
-### Things I learned
+## Things I learned
 
 combine css selectors that have the same attributes/values between there brackets,
 but remember to add a comma to keep them separated.
